@@ -1,1 +1,1 @@
-# BPL.github.io
+This website uses the GDShittyList template.
